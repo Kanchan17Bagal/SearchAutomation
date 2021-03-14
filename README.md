@@ -16,4 +16,4 @@ Project Files:
 
 Steps to run the automation:
 1. Right click on Executor.java file
-2. Select Run 'Executor' optio
+2. Select Run 'Executor' option
