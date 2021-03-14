@@ -9,11 +9,11 @@ Testcase number 17 - User can search by selecting one of the auto suggestions
 
 Project Files:
 
-Search.feature - Contains scenarios for automated testcases
-SearchTest.java - Step file where logic is present
-Executor.java - This is a executor file
-chromedriver.exe - Browser executable
-Steps to run the automation:
+1. Search.feature - Contains scenarios for automated testcases
+2. SearchTest.java - Step file where logic is present
+3. Executor.java - This is a executor file
+4. chromedriver.exe - Browser executable
 
-Right click on Executor.java file
-Select Run 'Executor' optio
+Steps to run the automation:
+1. Right click on Executor.java file
+2. Select Run 'Executor' optio
